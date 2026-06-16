@@ -1,3 +1,3 @@
 # codepush
 
-update this as well on 15 june
+update this as well on 16 june
