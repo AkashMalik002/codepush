@@ -1,3 +1,3 @@
 # codepush
 
-update this as well on 1 july
+update this as well on 4 july
